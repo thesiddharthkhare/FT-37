@@ -6,3 +6,6 @@ This is a public repository
 - add => git add .
 - commit => git commit -m "Meaningful commit message"
 - push => git push origin <branchname>
+
+git branch <branchname> => Creating a branch
+git checkout <branchname> => Go to that branch
